@@ -1,6 +1,6 @@
 # PokerGame
 <div align="center">
-<img width=400 src="https://raw.githubusercontent.com/haolijun168/Poker/master/Image/logo.png">
+<img width=200 src="https://raw.githubusercontent.com/haolijun168/TrackMyDay/master/Img/logo.jpg">
 
 <br> <br>
 
@@ -30,20 +30,29 @@
 
 ### Description
 Track your activities with the help of TrackMyDay app.
-
+<br>
 This app is very easy to use and understand so you can get started without setting anything up. All you have to do is tap the “Start” button and you’ll be tracking your time.
-
+<br>
 Features:
-
+<br>
 22 activities;
+<br>
 Start/Stop track activity time;
+<br>
 Reset counter;
+<br>
 Save activity time;
+<br>
 Choose date range from calendar;
+<br>
 Pie/bar chart stats;
+<br>
 Chart touches support;
+<br>
 Clear all saved data;
+<br>
 Requires iOS 8.0 and later.
+<br>
 
 
 ### User Information
