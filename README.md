@@ -1,10 +1,10 @@
-# PokerGame
+# TrackMyDay
 <div align="center">
 <img width=200 src="https://raw.githubusercontent.com/haolijun168/TrackMyDay/master/Img/logo.jpg">
 
 <br> <br>
 
-<h1> PokerGame </h1>
+<h1>TrackMyDay </h1>
 <h3> </h3></div>
 
 <br>
