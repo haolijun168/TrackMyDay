@@ -15,10 +15,10 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/haolijun168/Poker/master/Image/1.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/haolijun168/Poker/master/Image/2.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/haolijun168/Poker/master/Image/3.png"> </td>
-<td> <img src="https://raw.githubusercontent.com/haolijun168/Poker/master/Image/4.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/haolijun168/TrackMyDay/master/Img/1.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/haolijun168/TrackMyDay/master/Img/2.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/haolijun168/TrackMyDay/master/Img/3.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/haolijun168/TrackMyDay/master/Img/4.JPG"> </td>
 </tr>
 
 <tr>
@@ -29,14 +29,25 @@
 </table>
 
 ### Description
-<br>
-This is a classic chess BlackJack poker game that makes your life easier.
-<br>
-Remarks: The money in the game is virtual and is only used in the game and cannot be exchanged for real money. This app does not provide payment and in-app purchases.
+Track your activities with the help of TrackMyDay app.
+
+This app is very easy to use and understand so you can get started without setting anything up. All you have to do is tap the “Start” button and you’ll be tracking your time.
+
+Features:
+
+22 activities;
+Start/Stop track activity time;
+Reset counter;
+Save activity time;
+Choose date range from calendar;
+Pie/bar chart stats;
+Chart touches support;
+Clear all saved data;
+Requires iOS 8.0 and later.
 
 
 ### User Information
-hdzq9@sina.com
+mto28@sina.com
 <br>
-tell: +60133883241
+tell: +60133885222
 
